@@ -1,0 +1,21 @@
+div {
+  width: 30%;
+  margin: 20px auto;
+  border: 5px solid steelblue;
+  text-align: center;
+  padding: 20px;
+}
+
+#play {
+  background-image: url("../img/play.png");
+  height: 36px;
+  width: 36px;
+  background-size: 36px 36px;
+}
+
+#queue {
+  background-image: url("../img/queue.png");
+  height: 36px;
+  width: 36px;
+  background-size: 36px 36px;
+}
